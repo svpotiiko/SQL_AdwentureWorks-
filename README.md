@@ -1,2 +1,3 @@
 # SQL_AdwentureWorks-
-Creatde queries to solve business problems 
+Created queries to solve business problems 
+Final grade : 97/100
